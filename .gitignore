@@ -1,0 +1,11 @@
+.DS_Store
+out/
+/tmp
+workspace.xml
+*.versionsBackup
+.gradle/
+build/
+!**/src/**/build
+!**/test/**/build
+*.iml
+.idea
